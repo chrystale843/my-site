@@ -1,0 +1,13 @@
+p{
+	color:blueviolet;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    cursor: none; /* Cache le curseur par défaut */
+}
+
+#blocSuiveur {
+    position: absolute;
+}
