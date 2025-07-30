@@ -6,6 +6,8 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     cursor: none; /* Cache le curseur par défaut */
+    display:flex;
+    flex-direction:column;
 }
 
 #blocSuiveur {
